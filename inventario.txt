@@ -1,4 +1,4 @@
-manzanas:12
-peras:8
-naranjas:25
+zeta:12
+papaya:8
+arbol:25
 kiwis:5

@@ -1,0 +1,4 @@
+manzanas:12
+peras:8
+naranjas:25
+kiwis:5

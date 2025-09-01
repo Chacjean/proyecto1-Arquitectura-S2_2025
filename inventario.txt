@@ -1,0 +1,4 @@
+manzanas:1
+dados:8
+yogur:4
+arbol:5
